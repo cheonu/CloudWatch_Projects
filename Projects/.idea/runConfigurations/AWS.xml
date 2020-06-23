@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AWS" type="aws.ecs.cloud-debug">
+    <option name="credentialProviderId" value="profile:root" />
+    <option name="regionId" value="us-east-1" />
+    <option name="clusterArn" />
+    <option name="containerOptions">
+      <map />
+    </option>
+    <option name="serviceArn" />
+    <method v="2" />
+  </configuration>
+</component>

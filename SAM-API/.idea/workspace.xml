@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d49bfe8a-0758-447f-bd83-a16fc53ba116" name="Default Changelist" comment="Serverless REST API created using SAM and Python" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Che Onu &lt;chedev@newusers-macbook-pro-3.local&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sample-api" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/cheonu/SAM-API.git" />
+        <option value="https://github.com/cheonu/SAM-Restful-API.git" />
+        <option value="https://github.com/cheonu/cheonu.github.io" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dTuDP06f94CgUj0SwTVp2G509K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49bfe8a-0758-447f-bd83-a16fc53ba116" name="Default Changelist" comment="" />
+      <created>1592461283047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592461283047</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Serverless REST API created using SAM and Python">
+      <created>1592734474913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592734474913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Serverless REST API created using SAM and Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serverless REST API created using SAM and Python" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="293" key="Github.ShareDialog" timestamp="1592734127090">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="516" y="293" key="Github.ShareDialog/0.23.1280.734@0.23.1280.734" timestamp="1592734127090" />
+    <state x="429" y="94" key="Github.UntrackedFilesDialog" timestamp="1592731952889">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="429" y="94" key="Github.UntrackedFilesDialog/0.23.1280.734@0.23.1280.734" timestamp="1592731952889" />
+    <state x="149" y="28" key="SettingsEditor" timestamp="1592730370174">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="149" y="28" key="SettingsEditor/0.23.1280.734@0.23.1280.734" timestamp="1592730370174" />
+    <state x="240" y="129" width="963" height="520" key="Vcs.Push.Dialog.v2" timestamp="1592734492645">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="240" y="129" width="963" height="520" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1592463408237" />
+    <state x="240" y="129" key="Vcs.Push.Dialog.v2/0.23.1280.734@0.23.1280.734" timestamp="1592734492645" />
+  </component>
+</project>
