@@ -5,6 +5,6 @@ import boto3
 cloudwatch=boto3.client("cloudwatch")
 response = cloudwatch.delete_alarms(
     AlarmNames=[
-        'chedev',
+        'cloud_consult',
     ]
 )
