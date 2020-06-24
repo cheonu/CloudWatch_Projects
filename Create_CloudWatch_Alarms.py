@@ -12,10 +12,11 @@ cloudwatch.put_metric_alarm(
     EvaluationPeriods=1,
     Threshold=70.0,
     ComparisonOperator='GreaterThanThreshold',
+    Period=120,
     Dimensions=[
         {
           'Name': 'InstanceId',
-          'Value': 'INSTANCE_ID'
+          'Value': 'i-04803cd28b5db2711'
         },
     ],
     Unit='Seconds'
