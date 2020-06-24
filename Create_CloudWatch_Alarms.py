@@ -3,7 +3,7 @@ import boto3
 cloudwatch=boto3.client("cloudwatch")
 
 cloudwatch.put_metric_alarm(
-    AlarmName='chedev2',
+    AlarmName='cloud_consult',
     AlarmDescription='Alarm when CPU utilization exceeds 70%',
     ActionsEnabled=False,
     MetricName='CPUUtilization',
