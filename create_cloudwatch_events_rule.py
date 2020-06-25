@@ -1,3 +1,4 @@
+#Create a CloudWatch Events rule using put_rule
 import boto3
 cloudwatch_events=boto3.client("events")
 
